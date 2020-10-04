@@ -6,8 +6,21 @@ a:hover {
     color: #333333;
 }
 
-#contact, #portfolio, #about-me {
+#navbar-name {
+    padding: 10px;
+    font-family: 'Raleway', sans-serif;
+    color: aliceblue;
+    background-color: rgb(68, 135, 194);
+}
+
+#contact, 
+#portfolio, 
+#about-me {
     padding: 15px;
+}
+
+.col-md-6 {
+    padding: 10%;
 }
 
 .footer {
@@ -17,5 +30,5 @@ a:hover {
     height: 60px;
     line-height: 60px;
     background-color: dimgray;
-    border-top: 7px solid #00ff99;
+    border-top: 7px solid rgb(68, 135, 194);
 }
