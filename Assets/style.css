@@ -1,3 +1,15 @@
+body, 
+html {
+    height: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://i.imgur.com/Gvmj847.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Raleway', sans-serif;
+}
+
 a {
     color: gray;
 }
@@ -8,9 +20,12 @@ a:hover {
 
 #navbar-name {
     padding: 10px;
-    font-family: 'Raleway', sans-serif;
     color: aliceblue;
-    background-color: rgb(68, 135, 194);
+    background-color: rgb(255, 106, 175);
+}
+
+#navbar-name:hover {
+    color: rgb(197, 176, 197);
 }
 
 #contact, 
@@ -19,8 +34,21 @@ a:hover {
     padding: 15px;
 }
 
-.col-md-6 {
-    padding: 10%;
+.col-md-8 {
+    padding: 5%;
+    margin-left: 0;
+    background-color: aliceblue;
+}
+
+#image {
+    width: 150px;
+    height: 200px;
+    float: left;
+    margin: 10px;
+}
+
+hr {
+    color: #333333;
 }
 
 .footer {
@@ -30,5 +58,5 @@ a:hover {
     height: 60px;
     line-height: 60px;
     background-color: dimgray;
-    border-top: 7px solid rgb(68, 135, 194);
+    border-top: 7px solid rgb(255, 106, 175);
 }
