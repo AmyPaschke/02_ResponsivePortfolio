@@ -15,6 +15,7 @@ This portfoilio is a demonstration of my abilities to create a document from scr
 ## Credits
 
 Background image taken by Bruce Warrington (@brucebmax).
+
 All credit and inspiration belongs to Trilogy Education Services.
 
 ### License
