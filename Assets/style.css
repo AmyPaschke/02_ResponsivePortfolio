@@ -77,6 +77,11 @@ hr {
     color: #333333;
 }
 
+#submit-button {
+    background-color: rgb(255, 106, 175);
+    border: rgb(255, 106, 175);
+}
+
 .footer {
     position: absolute;
     bottom: 0;
