@@ -26,6 +26,7 @@ h1 {
     color: rgb(255, 106, 175);
 }
 
+/* specifically the section with my name */
 #navbar-name {
     padding: 10px;
     color: aliceblue;
@@ -36,12 +37,14 @@ h1 {
     color: rgb(197, 176, 197);
 }
 
+/*specific padding within the navbar */
 #contact, 
 #portfolio, 
 #about-me {
     padding-right: 5px;
 }
 
+/* added specifics for the column */
 .col-md-8 {
     padding: 5%;
     margin-left: 0;
@@ -52,6 +55,7 @@ h1 {
     overflow-y: auto;
 }
 
+/* image on the index page */
 #image {
     width: 150px;
     height: 200px;
@@ -59,6 +63,7 @@ h1 {
     margin: 10px;
 }
 
+/* both the class and id of placeholders function the same */
 .placeholders,
 #placeholders {
     width: 200px;
@@ -82,6 +87,10 @@ hr {
     border: rgb(255, 106, 175);
 }
 
+#submit-button:hover {
+    background-color: rgb(197, 176, 197);
+}
+
 .footer {
     position: absolute;
     bottom: 0;
@@ -98,11 +107,7 @@ hr {
     text-align: center;
 }
 
-@media (min-width: 400px) {
-    .shrink-navbar {
-        padding: 0%;
-    }
-    
+@media (min-width: 400px) {  
     #contact, 
     #portfolio,
     #about-me {
@@ -113,10 +118,6 @@ hr {
 }
 
 @media (min-width: 768px) {
-    .shrink-navbar {
-        
-    }
-    
     #contact, 
     #portfolio,
     #about-me {
