@@ -39,6 +39,7 @@ h1 {
 #contact, 
 #portfolio, 
 #about-me {
+    float: right;
     padding: 15px;
 }
 
@@ -91,4 +92,16 @@ hr {
     color: rgb(124, 124, 124);
     padding-top: 10px;
     text-align: center;
+}
+
+@media (min-width: 400px) {
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+
 }
