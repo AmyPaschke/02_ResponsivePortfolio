@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/style.css">
-    <title>Portfolio</title>
+    <link rel="stylesheet" href="./Assets/style.css">
+    <title>Contact Me!</title>
 
 </head>
 <body>
@@ -20,7 +20,7 @@
         <ul class="nav navbar-nav navbar-right">
           <li><a href="contact.html" id="contact">Contact</a></li>
           <li><a href="portfolio.html" id="portfolio">Portfolio</a></li>
-          <li><a href="../index.html" id="about-me">About</a></li>
+          <li><a href="index.html" id="about-me">About</a></li>
         </ul>
 
       </div>
@@ -31,26 +31,26 @@
   <div class="container">
 
     <div class="row">
-      <div class=" col-md-8">
-        <h1> Portfolio </h1>
+      <div class="col-md-8">
+        <h1> Contact me </h1>
 
         <hr>
 
-      <section class="section-body">
-        <div>
-          <img src="https://via.placeholder.com/350.jpg" alt="Placeholder 350x350 image" class="placeholders">
-
-          <img src="https://via.placeholder.com/350.jpg" alt="Placeholder 350x350 image" class="placeholders">
-
-          <img class="clearfix" id="placeholders" src="https://via.placeholder.com/350.jpg" alt="Placeholder 350x350 image">
-
-          <img src="https://via.placeholder.com/350.jpg" alt="Placeholder 350x350 image" class="placeholders">
-
-          <img class="clearfix" id="placeholders" src="https://via.placeholder.com/350.jpg" alt="Placeholder 350x350 image">
-          
-        </div>
-      </section>
-
+        <form>
+          <div class="form-group">
+            <label for="Input-Name">Name</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter name">
+          </div>
+          <div class="form-group">
+            <label for=Input-Email">Email address</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+          </div>
+          <div class="form-group">
+            <label for="Input-Message">Message</label>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="4"></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
       </div>
     </div>
   </div>
