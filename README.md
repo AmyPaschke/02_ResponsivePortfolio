@@ -8,6 +8,8 @@ This portfoilio is a demonstration of my abilities to create a document from scr
 
 ## Screenshots
 
+Example images for the final product at three different screen sizes.
+
 Large/full screen view:
 
 ![image](https://user-images.githubusercontent.com/70075341/95282297-beea4f80-081e-11eb-9048-a1d39114120d.JPG)
@@ -23,13 +25,25 @@ X-Small screen view:
 
 ## Features
 
+* Responsive website for all different screen sizes
+
+* A 'Contact Me' section for email inquiries
+
+* Portfolio page featuring multiple different projects
+
 ## Code Example
+
+Excerpt taken from the initial navbar code on the 'About Me' page.
+
+![image](https://user-images.githubusercontent.com/70075341/95375928-f223f180-08a5-11eb-80f3-a55d860cf3e0.JPG)
 
 ## Credits
 
 Background image taken by Bruce Warrington (@brucebmax).
 
 All credit and inspiration belongs to Trilogy Education Services.
+
+&copy; Copyright for completed code belongs to Amy Paschke.
 
 ### License
 
