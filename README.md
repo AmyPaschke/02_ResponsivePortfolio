@@ -2,6 +2,8 @@
 
 Utilizing Bootsrtap CSS to create a portfolio that is mobile responsive.
 
+View deployed website [here](https://amypaschke.github.io/02_ResponsivePortfolio/).
+
 ## Motivation
 
 This portfoilio is a demonstration of my abilities to create a document from scratch and render it specifically for a mobile device.
