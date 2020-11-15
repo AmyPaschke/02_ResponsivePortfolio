@@ -14,24 +14,19 @@ Example images for the final product at three different screen sizes.
 
 Large/full screen view:
 
-![image](https://user-images.githubusercontent.com/70075341/95282297-beea4f80-081e-11eb-9048-a1d39114120d.JPG)
+![image](https://user-images.githubusercontent.com/70075341/99189287-1507b800-2726-11eb-8191-06349cca77dd.JPG)
 
-Small screen view:
+iPad screen view:
 
-![image](https://user-images.githubusercontent.com/70075341/95282284-b72aab00-081e-11eb-8de6-cef59fcb7fe3.JPG)
-
-X-Small screen view:
-
-![image](https://user-images.githubusercontent.com/70075341/95282266-ab3ee900-081e-11eb-9360-ef9e46265534.JPG)
-
+![image](https://user-images.githubusercontent.com/70075341/99189288-15a04e80-2726-11eb-8889-e0d3d6686ed1.JPG)
 
 ## Features
 
-* Responsive website for all different screen sizes
+- Responsive website for all different screen sizes
 
-* A 'Contact Me' section for email inquiries
+- A 'Contact Me' section for email inquiries
 
-* Portfolio page featuring multiple different projects
+- Portfolio page featuring multiple different projects
 
 ## Code Example
 
